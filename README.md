@@ -34,7 +34,7 @@ The complete development process was documented through a series of progress vid
 
 Video links:
 
-* [Development Playlist]((https://youtube.com/playlist?list=PLZFpPKCAKpdfHmYVIzNSFygtYN31yTf79&si=FbyX0-8CQCXjkIGT))
+* https://youtube.com/playlist?list=PLZFpPKCAKpdfHmYVIzNSFygtYN31yTf79&si=FbyX0-8CQCXjkIGT
 
 ### Blender Files
 
