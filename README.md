@@ -21,7 +21,7 @@ Additional project resources are included within this repository to document the
 ### Documentation
 
 * [Material Summary][(documentation/MATERIAL_SUMMARY.pdf)](https://github.com/arishasinghvi08-prog/liquid-propellant-rocket-engine-design/blob/5c60aa13e01355d617cdd9abfbd4e63a708f0197/MATERIAL%20SUMMARY.pdf) — Overview of material selections and Blender rendering parameters.
-* [Component Material Breakdown](documentation/nozzle_chamber_turbo_materials.pdf) — Detailed material configuration for the nozzle, combustion chamber, gas generator, and turbomachinery assemblies.
+* [Component Material Breakdown][(documentation/nozzle_chamber_turbo_materials.pdf)](https://github.com/arishasinghvi08-prog/liquid-propellant-rocket-engine-design/blob/5c60aa13e01355d617cdd9abfbd4e63a708f0197/nozzlechamberturbo_Page002__.pdf) — Detailed material configuration for the nozzle, combustion chamber, gas generator, and turbomachinery assemblies.
 
 ### Development Videos
 
