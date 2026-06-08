@@ -16,7 +16,7 @@ Additional project resources are included within this repository to document the
 
 ### CAD Files
 
-* [Engine.FCStd](cad/Engine.FCStd) — Primary FreeCAD model used for the engine design.
+* [Engine.FCStd] Engine.FCStd — Primary FreeCAD model used for the engine design.
 
 ### Documentation
 
