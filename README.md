@@ -10,6 +10,35 @@ The objective of the project was to demonstrate an understanding of liquid rocke
 This project is intended as an engineering visualization and portfolio project rather than a CFD-validated propulsion system. The focus is on clearly communicating how the major subsystems of a liquid rocket engine interact and function together.
 
 ---
+## Project Files and Resources
+
+Additional project resources are included within this repository to document the complete design and visualization workflow.
+
+### CAD Files
+
+* [Engine.FCStd](cad/Engine.FCStd) — Primary FreeCAD model used for the engine design.
+
+### Documentation
+
+* [Material Summary](documentation/MATERIAL_SUMMARY.pdf) — Overview of material selections and Blender rendering parameters.
+* [Component Material Breakdown](documentation/nozzle_chamber_turbo_materials.pdf) — Detailed material configuration for the nozzle, combustion chamber, gas generator, and turbomachinery assemblies.
+
+### Development Videos
+
+The complete development process was documented through a series of progress videos covering CAD modeling, assembly development, rendering, and visualization workflows.
+
+* Part 1 – Turbo pump 
+* Part 2 – side pumps
+* Part 3 – finished structure in FreeCAD
+* Part 4 – Visualization in Blender
+
+Video links:
+
+* [Development Playlist]((https://youtube.com/playlist?list=PLZFpPKCAKpdfHmYVIzNSFygtYN31yTf79&si=FbyX0-8CQCXjkIGT))
+
+### Blender Files
+
+The Blender project file is not currently included in the repository due to file size limitations. However, all final renders, documentation, and source CAD files required to understand the project workflow are available within this repository.
 
 ## Project Objectives
 
