@@ -16,7 +16,7 @@ Additional project resources are included within this repository to document the
 
 ### CAD Files
 
-* [Engine.FCStd] Engine.FCStd — Primary FreeCAD model used for the engine design.
+* [ Engine.FCStd](https://github.com/arishasinghvi08-prog/liquid-propellant-rocket-engine-design/blob/ee7d1575f46ec3368c5c688051892fe0c0ae49db/Engine.FCStd) — Primary FreeCAD model used for the engine design.
 
 ### Documentation
 
